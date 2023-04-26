@@ -1,0 +1,22 @@
+{
+  "name": "dh-heroes-class-16",
+  "version": "1.0.0",
+  "description": "challenge class 16",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErosFlugel/DH-Heroes-Class-16.git"
+  },
+  "author": "Eros Flugel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErosFlugel/DH-Heroes-Class-16/issues"
+  },
+  "homepage": "https://github.com/ErosFlugel/DH-Heroes-Class-16#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
